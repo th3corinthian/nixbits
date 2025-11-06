@@ -35,9 +35,7 @@
 			  clang
 			  llvm
 			  libressl
-
 			  musl
-			  musl-dev
 
 		      # debuggers
 			  gdb
