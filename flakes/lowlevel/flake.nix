@@ -31,6 +31,11 @@
               gcc
               radare2
               ghidra
+              gdb
+              gef
+              capstone
+              unicorn
+              pwntools
             ];
           };
         });

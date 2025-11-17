@@ -1,0 +1,3 @@
+#+TITLE: nixbits
+#+AUTHOR: Corinthian
+#+DESCRIPTION: a slightly well managed set of declarative workflows
