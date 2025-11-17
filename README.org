@@ -1,3 +1,7 @@
 #+TITLE: nixbits
 #+AUTHOR: Corinthian
 #+DESCRIPTION: a slightly well managed set of declarative workflows
+
+A slightly well managed set of declarative workflows.
+
+Enter a workflow in *~nixbits/flakes/**. Run with *nix develop*.
