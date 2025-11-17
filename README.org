@@ -4,4 +4,4 @@
 
 A slightly well managed set of declarative workflows.
 
-Enter a workflow in *~nixbits/flakes/**. Run with *nix develop*.
+Enter a workflow in *~/nixbits/flakes/**. Run with *nix develop*.
